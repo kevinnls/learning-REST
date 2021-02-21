@@ -1,0 +1,13 @@
+{
+  "name": "learning-REST",
+  "version": "1.0.0",
+  "description": "github.com/kevinnls creating a bunch of RESTful APIs using the Express framework for Node.js",
+  "main": "index.js",
+  "repository": "https://github.com/kevinnls/learning-REST",
+  "author": "kevinnls <57634663+kevinnls@users.noreply.github.com>",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}
