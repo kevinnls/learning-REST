@@ -7,7 +7,7 @@ app.listen(port, ()=>{
 	\nlistening @ http://localhost:${port}`)
 });
 
-app.get('/', (req, res) => {
+app.get('/api', (req, res) => {
     res.status(200).end("Hello World!");
 })
 
