@@ -8,6 +8,6 @@ app.listen(port, ()=>{
 });
 
 app.get('/api', (req, res) => {
-    res.status(200).end("Hello World!");
+    res.status(200).end("Hello, world!");
 })
 
